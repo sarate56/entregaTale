@@ -1,0 +1,32 @@
+[
+{
+    "id": "Producto 1",
+    "nombre":"Campera Bebe", 
+    "precio": 1234 , 
+    "img": "./imagenes/campera bebe.jpeg" 
+},
+{
+    "id": "Producto 2",
+    "nombre":"Mono Rosa", 
+    "precio": 1234 , 
+    "img": "./imagenes/mono rosa.jpeg" 
+},
+{
+    "id": "Producto 3", 
+    "nombre":"Guantes Dama", 
+    "precio": 1234 , 
+    "img": "./imagenes/guantes dama.jpg" 
+},
+{
+    "id": "Producto 4", 
+    "nombre":"Gorro Lechuza", 
+    "precio": 1234 , 
+    "img": "./imagenes/gorro lechuza.jpg"  },
+{
+    "id": "Producto 5", 
+    "nombre":"Vincha Niña", 
+    "precio": 1234 , 
+    "img": "../imagenes/vincha niña.jpg" 
+}
+
+] 
