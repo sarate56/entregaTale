@@ -2,7 +2,6 @@
 import {
     guardarCarrito,
     obtenerCarrito,
-    vaciarCarrito,
     vaciarCarritoStorage
 } from "./storage.js";
 import { actualizarContador, mostrarMensaje } from "./ui.js";
@@ -13,6 +12,7 @@ export const agregarAlCarrito = (producto) => {
     guardarCarrito(carrito);
     actualizarContador(carrito);
     mostrarMensaje("Se agrego producto al carrito.")};
+
 export const eliminarProducto = (indice) => {
     const carrito = obtenerCarrito();
     carrito.splice(indice, 1);

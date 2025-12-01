@@ -281,6 +281,7 @@ main .parrafo-home {
         display: flex;
         flex-direction: column;
         align-items: center;
+        gap: 1rem;
     }
     .tarjeta-producto {
         width: 80%;
@@ -289,4 +290,9 @@ main .parrafo-home {
         width: 80%;
         min-width: 400px;
     }
+}
+.productos-home {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
 }
