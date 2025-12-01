@@ -26,7 +26,7 @@
     "id": "Producto 5", 
     "nombre":"Vincha Niña", 
     "precio": 1234 , 
-    "img": "../imagenes/vincha niña.jpg" 
+    "img": "./imagenes/vincha niña.jpg" 
 }
 
 ] 
